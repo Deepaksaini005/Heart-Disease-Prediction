@@ -2,6 +2,9 @@
 
 A simple Streamlit app that predicts heart disease risk using a trained KNN model.
 
+## Live Demo
+https://hd-prediction-7727.streamlit.app/
+
 ## Files
 
 - `app.py` — Streamlit application
@@ -33,3 +36,9 @@ Open the local Streamlit URL shown in the terminal (usually `http://localhost:85
 
 - The app loads the model and preprocessing files from the project root.
 - This is a Streamlit-only project; Django and MongoDB are not required.
+
+## Features
+- Predicts heart disease risk
+- Interactive Streamlit UI
+- Machine Learning classification model
+- Real-time predictions
